@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3f9e69312da3e7c664e7d576bd031e7",
+    "revision": "abfcac3cd2540896c5099dfe3c933d57",
     "url": "/anime-flood/index.html"
   },
   {
-    "revision": "83a5cbcc60e551c78f84",
+    "revision": "884e5f1edfd6be391096",
     "url": "/anime-flood/static/css/main.5073a5db.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/anime-flood/static/js/2.8fa96237.chunk.js"
   },
   {
-    "revision": "83a5cbcc60e551c78f84",
-    "url": "/anime-flood/static/js/main.6e449f1c.chunk.js"
+    "revision": "884e5f1edfd6be391096",
+    "url": "/anime-flood/static/js/main.2aafce13.chunk.js"
   },
   {
     "revision": "4151a17d95dad129c1f4",
