@@ -1,0 +1,36 @@
+header {
+  top: 0;
+  width: 100%;
+  height: 60px;
+  position: fixed;
+  background-color: blueviolet;
+  padding-top: 10px;
+  z-index: 5;
+}
+
+.logo {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-size: 2.2em;
+  text-transform: uppercase;
+  background: linear-gradient(45deg, rgb(235, 228, 228) 33%, rgb(170, 170, 170) 66%, rgb(180, 190, 206));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0B2349;
+  margin-left: 10%;
+}
+
+@media screen and (max-width: 600px) {
+  .logo {
+    font-size: 1.4em;
+    margin-top: 5px;
+    text-transform: lowercase;
+  }
+
+  .span-username {
+    position: absolute;
+    top: 9px;
+    font-size: 0.9em;
+    right: 25px;
+    z-index: 1;
+  }
+}
